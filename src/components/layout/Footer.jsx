@@ -1,0 +1,4 @@
+﻿import React from 'react';
+import { Link } from 'react-router-dom';
+export default function Footer(){return <footer className="footer"><div className="footer-top"><div><Link to="/" className="brand footer-brand"><span className="brand-mark">M<span>V</span></span><span className="brand-name">MOTOR VEHICLE<br/><b>CLAIM</b></span></Link><p>Clear guidance for the road ahead.</p></div><div className="footer-links"><div><small>EXPLORE</small><Link to="/">Home</Link><Link to="/about">About</Link><Link to="/services">Services</Link><Link to="/contact">Contact</Link></div><div><small>INFORMATION</small><Link to="/terms">Terms & Conditions</Link><Link to="/privacy">Privacy Policy</Link><a href="mailto:info@motorvehicleclaim.com">Email us</a><a href="tel:18442282372">(844) 228-2372</a></div></div></div><div className="footer-bottom"><span>Â© {new Date().getFullYear()} Motor Vehicle Claim</span><span>Every claim begins with a conversation.</span></div></footer>}
+
