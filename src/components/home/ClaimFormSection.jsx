@@ -25,7 +25,7 @@ export default function ClaimFormSection({ standalone = false }) {
 
       <div className="claim-form-panel">
         {submitted ? (
-          <div className="claim-form-success"><span className="eyebrow"><i /> ENQUIRY RECEIVED</span><h3>Thank you.</h3><p>Your details have been recorded for this demo. To reach Motor Vehicle Claim, email info@motorvehicleclaim.com or call (844) 228-2372.</p></div>
+          <div className="claim-form-success"><span className="eyebrow"><i /> ENQUIRY RECEIVED</span><h3>Thank you.</h3><p>Your details have been recorded for this demo. To reach Motor Vehicle Claim, email hello@callssearch.com or call 07737139740.</p></div>
         ) : (
           <>
             <div className="claim-stepper" aria-label={`Step ${step} of 3`}>

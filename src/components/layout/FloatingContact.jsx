@@ -4,8 +4,8 @@ import { FileText, Mail, Phone, X } from 'lucide-react';
 import './FloatingContact.css';
 
 const contactActions = [
-  { label: 'Call us', detail: '(844) 228-2372', href: 'tel:18442282372', Icon: Phone },
-  { label: 'Email us', detail: 'info@motorvehicleclaim.com', href: 'mailto:info@motorvehicleclaim.com', Icon: Mail },
+  { label: 'Call us', detail: '07737139740', href: 'tel:07737139740', Icon: Phone },
+  { label: 'Email us', detail: 'hello@callssearch.com', href: 'mailto:hello@callssearch.com', Icon: Mail },
 ];
 
 export default function FloatingContact() {

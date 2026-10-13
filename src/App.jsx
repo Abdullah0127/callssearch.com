@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Header from './components/layout/ReferenceHeader.jsx';
 import Footer from './components/layout/ReferenceFooter.jsx';
@@ -14,8 +14,8 @@ import FloatingContact from './components/layout/FloatingContact.jsx';
 
 export default function App() {
   const location = useLocation();
-  React.useEffect(() => {
-    window.scrollTo(0, 0);
+  React.useLayoutEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
     const title = {
       '/': 'Motor Vehicle Claim | Clear advice after an accident',
       '/about': 'About | Motor Vehicle Claim',

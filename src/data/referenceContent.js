@@ -35,7 +35,7 @@ export const termsSections = [
   ["Indemnification", "Indemnity : You agree to indemnify and hold harmless Motor Vehicle Claim, its affiliates, directors, officers, employees, agents, and licensors from any claims, losses, liabilities, damages, expenses, or costs (including attorneys' fees) arising out of or related to your use of our services, violation of these Terms and Conditions, or infringement of any third-party rights."],
   ["Governing Law and Dispute Resolution", "Governing Law : These Terms and Conditions shall be governed by and construed in accordance with the laws of the applicable jurisdiction, without regard to its conflict of law provisions. Dispute Resolution : Any dispute arising out of or relating to these Terms and Conditions or your use of Motor Vehicle Claim shall be resolved exclusively in the state or federal courts located in the applicable jurisdiction, and you consent to the jurisdiction and venue of such courts."],
   ["Changes to Terms and Conditions", "Modification : We reserve the right to modify or update these Terms and Conditions at any time without prior notice. Your continued use of Motor Vehicle Claim after any changes to these terms constitutes your acceptance of the revised terms."],
-  ["Contact", "For any queries contact us at info@motorvehicleclaim.com ."]
+  ["Contact", "For any queries contact us at hello@callssearch.com ."]
 ];
 
 export const privacyIntro = "At Motor Vehicle Claim, we understand the importance of protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our services. By accessing or using Motor Vehicle Claim, you consent to the terms of this Privacy Policy.";
@@ -48,5 +48,5 @@ export const privacySections = [
   ["Data Security", "We take appropriate measures to safeguard your personal information against unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security."],
   ["Your Privacy Choices", "You have the right to access, update, or delete your personal information held by Motor Vehicle Claim. You can also choose to opt out of receiving promotional communications from us."],
   ["Changes to this Privacy Policy", "We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any significant changes by posting a prominent notice on Motor Vehicle Claim or by sending you an email."],
-  ["Contact", "For any queries contact us at info@motorvehicleclaim.com ."]
+  ["Contact", "For any queries contact us at hello@callssearch.com ."]
 ];
